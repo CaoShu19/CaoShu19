@@ -1,0 +1,8 @@
+# git study
+
+1. good git 
+2. 找不到工作，哈哈哈，：）
+
+3. this git diff (:p), maybe you could ...
+
+
