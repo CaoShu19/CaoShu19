@@ -5,4 +5,7 @@
 
 3. this git diff (:p), maybe you could ...
 
-4. this git branch 24. this git branch 24. this git branch 24. this git branch 2
+4. this git branch 2
+
+5. git checkout -b branch_name
+
